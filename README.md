@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React.js, Solana**
 
-- 👨‍💻 All of my projects are available at [mnabimd.vercel.com](mnabimd.vercel.com)
-
 - 💬 Ask me about **javascript, vue, react, node.js**
 
 - 📫 How to reach me **mnabimd@gmail.com**
+
+- 👨‍💻 Most of my enterprise level projects are **private** due to privacy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
