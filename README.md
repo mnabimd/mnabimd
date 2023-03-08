@@ -1,14 +1,15 @@
-<h3 align="center">Full-Stack MEVN Developer</h3>
+<h1 align="left">Hello, there! It's Mohammad Nabi</h3>
+<h6 align="left">Fields with higher experience: Node.js, Vue.js, JavaScript, Typescript and Sequelize</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnabimd&label=Profile%20views&color=0e75b6&style=flat" alt="mnabimd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p> -->
 
-- 🔭 I’m currently working on **patients management system**
+- 🔭 I’m currently working on **Patients Management System** and **Faculty Management System**.
 
 - 🌱 I’m currently learning **React.js, Solana**
 
-- 💬 Ask me about **javascript, vue, react, node.js**
+- 💬 Ask me about **Node.js, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
 
 - 📫 How to reach me **mnabimd@gmail.com**
 
