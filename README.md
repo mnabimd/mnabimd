@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p> -->
 
-- 🔭 I’m currently working on **Patients Management System** and **Faculty Management System**.
+- 🔭 I’m currently working on **Faculty Management System**.
 
-- 🌱 I’m currently learning **React.js, Solana**
+- 🌱 I’m currently learning **Nuxt.js**
 
 - 💬 Ask me about **Node.js, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
 
