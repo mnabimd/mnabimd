@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Faculty Management System**.
 
-- 🌱 I’m currently learning **Nuxt.js**
+- 🌱 I’m currently practising **Clean Architecher with .NET and Next.js**
 
-- 💬 Ask me about **Node.js, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
+- 💬 Ask me about **Node.js, .NET Core, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
 
 - 📫 How to reach me **mnabimd@gmail.com**
 
