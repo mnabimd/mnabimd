@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p> -->
 
-- 🔭 I’m currently working on **Faculty Management System**.
+- 🔭 I’m currently working on **File Streaming/Transfer Management App with .NET and ReactJS**.
 
-- 🌱 I’m currently practising **Clean Architecher with .NET and Next.js**
+- 🌱 I’m currently practising **Clean Architecture with .NET and Next.js**
 
 - 💬 Ask me about **Node.js, .NET Core, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
 
