@@ -1,5 +1,5 @@
 <h1 align="left">Hello, there! It's Mohammad Nabi</h3>
-<h6 align="left">Fields with higher experience: Node.js, Vue.js, JavaScript, Typescript and Sequelize</h6>
+<h6 align="left">Fields with higher experience: Node.js, Vue.js, React.js, React Native, JavaScript, Typescript and Sequelize</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnabimd&label=Profile%20views&color=0e75b6&style=flat" alt="mnabimd" /> </p>
 
