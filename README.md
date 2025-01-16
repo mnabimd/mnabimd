@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently practising **Clean Architecture with .NET and Next.js**
 
-- 💬 Ask me about **Node.js, .NET Core, JavaScript, TypeScript, Vue.js, Vuetify.js, Sequelize.js and MySQL**
+- 💬 Ask me about **Node.js, React Native, Expo, .NET Core, JavaScript, TypeScript, Vue.js, React.js, Vuetify.js, Sequelize.js and MySQL**
 
 - 📫 How to reach me **mnabimd@gmail.com**
 
