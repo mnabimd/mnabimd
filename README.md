@@ -7,10 +7,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p> -->
 
 <h4>About</h4>
-- I'm a professional software developer in Afghanistan and UI/UX designer based in Kandahar, with a decade of experience creating websites, mobile apps and desktop applications for various foreign countries such as: USA, Germany, Canada, Dubai and others.</h4>
+<p> I'm a professional software developer in Afghanistan and UI/UX designer based in Kandahar, with a decade of experience creating websites, mobile apps and desktop applications for various foreign countries such as: USA, Germany, Canada, Dubai and others.</p>
 
 <h4>I like building things</h4>
-- I offer scalable, industry followed software development, production-ready database development, domain registration, hosting services, mobile apps, and other tech services. If you’re looking for a professional software engineer, we can work with a clear plan and fast delivery.
+<p> I offer scalable, industry followed software development, production-ready database development, domain registration, hosting services, mobile apps, and other tech services. If you’re looking for a professional software engineer, we can work with a clear plan and fast delivery. </p>
 
 
 - 📫 How to reach me **mnabimd@gmail.com**
