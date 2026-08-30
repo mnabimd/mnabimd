@@ -1,15 +1,17 @@
 <h1 align="left">Hello, there! It's Mohammad Nabi</h3>
-<h6 align="left">Fields with higher experience: Node.js, Vue.js, React.js, React Native, JavaScript, Typescript and Sequelize</h6>
+<h6 align="left">Senior Software Engineer | 10+ Years of building scalable [Mobile, Web, Desktop] apps
+</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnabimd&label=Profile%20views&color=0e75b6&style=flat" alt="mnabimd" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabimd" alt="mnabimd" /></a> </p> -->
 
-- 🔭 I’m currently working on **File Streaming/Transfer Management App with .NET and ReactJS**.
+<h4>About</h4>
+- I'm a professional software developer in Afghanistan and UI/UX designer based in Kandahar, with a decade of experience creating websites, mobile apps and desktop applications for various foreign countries such as: USA, Germany, Canada, Dubai and others.</h4>
 
-- 🌱 I’m currently practising **Clean Architecture with .NET and Next.js**
+<h4>I like building things</h4>
+- I offer scalable, industry followed software development, production-ready database development, domain registration, hosting services, mobile apps, and other tech services. If you’re looking for a professional software engineer, we can work with a clear plan and fast delivery.
 
-- 💬 Ask me about **Node.js, React Native, Expo, .NET Core, JavaScript, TypeScript, Vue.js, React.js, Vuetify.js, Sequelize.js and MySQL**
 
 - 📫 How to reach me **mnabimd@gmail.com**
 
